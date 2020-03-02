@@ -1,0 +1,1 @@
+2020-03-02 21:59:20 INFO: PDOAdapter -> selectOne() $sql=SELECT MAX(age) AS age FROM person; $args=
